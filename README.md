@@ -4,6 +4,13 @@
 
 Export XWiki XAR packages to Markdown, with optional sync to Confluence (including attachments).
 
+## Test Environment
+
+Confluence 7.4.9 
+XWiki Jetty HSQLDB 15.4
+
+[XAR FORMAT ](https://extensions.xwiki.org/xwiki/bin/view/Extension/XAR%20Module%20Specifications)
+
 ## Data Directory
 
 - Input dir example: `xwiki/`
